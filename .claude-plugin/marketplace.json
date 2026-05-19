@@ -31,6 +31,7 @@
       "category": "design",
       "agents": [
         "./design/design-brand-guardian.md",
+        "./design/design-experience-designer.md",
         "./design/design-image-prompt-engineer.md",
         "./design/design-inclusive-visuals-specialist.md",
         "./design/design-ui-designer.md",
